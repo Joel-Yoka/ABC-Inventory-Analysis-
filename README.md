@@ -27,6 +27,7 @@
 ![Data Cleansing_2](./DataCleansing_2.png)
 
 *Cleaned Data*
+
 ![Cleaned file](./Cleaned_Data.png)
 
 **Classification Methods:**
@@ -35,6 +36,7 @@
 - Class C: Materials contributing 10% of the total stock value
 
 *ABC Classification code*
+
 ![ABC Classification code](./PythonAbcClassification.png)
 
 
