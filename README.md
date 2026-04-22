@@ -19,6 +19,10 @@
 - Python was utilised for data cleansing and performing ABC classification
 - PowerBI was employed for data analysis
 
+![Raw Data](./AbcRawData.png)
+
+![Cleaned file](./Cleaned_Data.png)
+
 **Classification Methods:**
 - Class A: Materials representing 70% of the overall stock value
 - Class B: Materials accounting for 20% of the total stock value
@@ -37,6 +41,9 @@
 - Complete one physical stock count annually for Class C materials to maintain accuracy and preservation standards
 - Review the pricing of the highest-value consumable items, as such high values are unusual for this category
 - Encourage collaboration between IT, Materials Management, and Maintenance departments to assign appropriate Material Groups to items currently labelled ‘N/A’.  This will optimise warehouse organisation and material preservation
+
+![Dashboard]
+
 
 
 
