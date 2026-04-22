@@ -19,14 +19,24 @@
 - Python was utilised for data cleansing and performing ABC classification
 - PowerBI was employed for data analysis
 
+*Raw Data*
 ![Raw Data](./AbcRawData.png)
 
+*Data Cleansing Codes*
+![Data Cleansing](./DataCleansing_1.png)
+![Data Cleansing_2](./DataCleansing_2.png)
+
+*Cleaned Data*
 ![Cleaned file](./Cleaned_Data.png)
 
 **Classification Methods:**
 - Class A: Materials representing 70% of the overall stock value
 - Class B: Materials accounting for 20% of the total stock value
 - Class C: Materials contributing 10% of the total stock value
+
+*ABC Classification code*
+![ABC Classification code](./PythonAbcClassification.png)
+
 
 **Insights:**
 - Total inventory stock value stands at USD 14.16 million
@@ -42,7 +52,8 @@
 - Review the pricing of the highest-value consumable items, as such high values are unusual for this category
 - Encourage collaboration between IT, Materials Management, and Maintenance departments to assign appropriate Material Groups to items currently labelled ‘N/A’.  This will optimise warehouse organisation and material preservation
 
-![Dashboard]
+*Dashboard*
+![Dashboard](./InventoryAbcAnalysis.png)
 
 
 
