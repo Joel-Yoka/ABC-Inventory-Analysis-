@@ -55,7 +55,7 @@
 - Encourage collaboration between IT, Materials Management, and Maintenance departments to assign appropriate Material Groups to items currently labelled ‘N/A’.  This will optimise warehouse organisation and material preservation
 
 *Dashboard*
-![Dashboard](./InventoryAbcAnalysis.png)
+![Dashboard](./ABC_Analysis_figma.png)
 
 
 
