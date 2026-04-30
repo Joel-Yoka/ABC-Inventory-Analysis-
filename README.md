@@ -42,7 +42,7 @@
 
 **Insights:**
 - Total inventory stock value stands at USD 14.16 million
-- There are 1,375,000 distinct material items
+- There are 1,375 distinct material items
 - Soyo warehouse contains a higher proportion of Class A materials
 - Consumables category holds the most Class A items, which may indicate an anomaly as these are not located offshore where they are typically utilised
 - The Material Group labelled ‘N/A’ represents a significant stock value, which could also be considered an anomaly
